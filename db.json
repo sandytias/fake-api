@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "SandyTS",
+      "alamat": "Batan Indah",
+      "umur" : 24,
+      "nohp": "081293521956"
+    },
+    {
+      "id": 2,
+      "nama": "Tias",
+      "alamat": "Batan",
+      "umur" : 24,
+      "nohp": "081293521912"
+    },
+    {
+      "id": 3,
+      "nama": "Sasmita",
+      "alamat": "Indah",
+      "umur" : 24,
+      "nohp": "081293523456"
+    },
+    {
+      "id": 4,
+      "nama": "acuy",
+      "alamat": "serpong",
+      "umur" : 24,
+      "nohp": "081293521956"
+    },
+    {
+      "id": 5,
+      "nama": "ogah",
+      "alamat": "padang",
+      "umur" : 24,
+      "nohp": "081293521956"
+    },
+    {
+      "id": 6,
+      "nama": "sasha",
+      "alamat": "Bsd",
+      "umur" : 24,
+      "nohp": "081293521956"
+    },
+    {
+      "id": 7,
+      "nama": "herri",
+      "alamat": "Pagedangan",
+      "umur" : 24,
+      "nohp": "081293521956"
+    },
+    {
+      "id": 8,
+      "nama": "Sandy",
+      "alamat": "Batan Indah",
+      "umur" : 24,
+      "nohp": "081293521956"
+    },
+    {
+      "id": 9,
+      "nama": "Sandy",
+      "alamat": "Batan Indah",
+      "umur" : 24,
+      "nohp": "081293521956"
+    },
+    {
+      "id": 10,
+      "nama": "Sandy",
+      "alamat": "Batan Indah",
+      "umur" : 24,
+      "nohp": "081293521956"
+    },
+    {
+      "id": 11,
+      "nama": "Sandy",
+      "alamat": "Batan Indah",
+      "umur" : 24,
+      "nohp": "081293521956"
+    }
+  ]
+}
